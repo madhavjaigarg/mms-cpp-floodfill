@@ -11,6 +11,7 @@ For use with [mackorone/mms](https://github.com/mackorone/mms), a Micromouse sim
 1. Run the simulator and click the "+" button to configure a new algorithm
 1. Enter the config for your algorithm (name, directory, build command, and run command)
 1. Click the "Run" button
+1. You can also choose between the different run files - the one that goes to the start and the one that doesn't. Simply change the build file's name to it.
 
 ## Examples
 
