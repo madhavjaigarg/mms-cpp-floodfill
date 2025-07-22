@@ -1,6 +1,6 @@
 # mms-cpp
 
-Write a Micromouse maze-solving algorithm in C++.
+Write a Micromouse maze-solving algorithm in C++ using Flood-Fill algorithm.
 
 For use with [mackorone/mms](https://github.com/mackorone/mms), a Micromouse simulator.
 
