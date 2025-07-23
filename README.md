@@ -30,3 +30,4 @@ Linux (Ubuntu) and MacOS:
 - Communication with the simulator is done via stdin/stdout, use stderr to print output
 - Descriptions of all available API methods can be found at [mackorone/mms#mouse-api](https://github.com/mackorone/mms#mouse-api)
 - The code is a BFS flood-fill algorithm
+- Credits to [Mackarone](https://github.com/mackorone) for the API files and .gitignore 
