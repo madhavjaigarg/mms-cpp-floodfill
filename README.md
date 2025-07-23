@@ -1,4 +1,4 @@
-# mms-cpp
+# mms-cpp-floodfill
 
 Write a Micromouse maze-solving algorithm in C++ using Flood-Fill algorithm.
 
